@@ -1,0 +1,7 @@
+{
+    "env": "uat",
+    "region": "eu",
+    "type": "non-prod",
+    "version": "uat",
+    "chart": "0.2.0"
+  }
